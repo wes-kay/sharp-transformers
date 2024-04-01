@@ -9,8 +9,5 @@
     "name": "Thomas Simonini",
     "email": "thomas.simonini@huggingface.co",
     "url": "https://github.com/huggingface/sharp-transformers"
-  },
-  "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "13.0.3"
   }
 }
