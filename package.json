@@ -11,6 +11,6 @@
     "url": "https://github.com/huggingface/sharp-transformers"
   },
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": "3.2.1"
+    "com.unity.nuget.newtonsoft-json": "13.0.3"
   }
 }
